@@ -1,1 +1,3 @@
-# React-Navigator-Navigator-NavigatorIOS-Demo
+# React-Native-Navigator-NavigatorIOS-Demo<br>
+由于ReactNative中，Navigator是整个初学阶段的最难点之一，官网中列出来的示例也不够详尽，所以我在此总结并扩展一下Navigator的用法。<br>
+Navigator分为两种，一种是通用的Navigator，另一种是IOS专属的NavigatorIOS。从使用难易程度上来讲，NavigatorIOS要比Navigator简单不少，在IOS上相当于直接集成了NavigationBar的Navigator
